@@ -1,6 +1,6 @@
 {
   "name": "react-mood",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Render components based on the mood of the user",
   "main": "lib/index.js",
   "repository": "https://github.com/aweary/react-mood.git",
