@@ -9,7 +9,7 @@ Are you tried of being insensitive to the mood of your users? Do you want to rew
 ### Example
 
 ```jsx
-import React from 'react
+import React from 'react'
 import Mood from 'react-mood'
 
 class AnnoyedAlert extends React.Component {
